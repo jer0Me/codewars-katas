@@ -1,4 +1,4 @@
-#String Merger
+# String Merger
 
 ## Description:
 At a job interview, you are challenged to write an algorithm to check if a given string, s, can be formed from two other strings, part1 and part2.
